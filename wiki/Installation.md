@@ -27,3 +27,5 @@ Alternatively, you can simply use your TiVo, and do the following:
 1. Go to Account and System Info
 1. Go to Media Access Key
 1. Copy down the 10-digit number
+
+If using Avast, you currently need to disable Web Shield for cTivo to work.
